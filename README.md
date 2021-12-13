@@ -22,6 +22,6 @@ For reproducibility, I also provide a [development container](./.devcontainer) t
 | 8 | [Seven Segment Search](https://adventofcode.com/2021/day/8) |  [part 1](./day-08/part1.py) | [part 2](./day-08/part2.py) |
 | 9 | [Smoke Basin](https://adventofcode.com/2021/day/9) |  [part 1](./day-09/part1.py) | [part 2](./day-09/part2.py) |
 | 10 | [Syntax Scoring](https://adventofcode.com/2021/day/10) |  [part 1](./day-10/part1.py) | [part 2](./day-10/part2.py) |
-| 11 | [Dumbo Octopus](https://adventofcode.com/2021/day/11) |  [part 1](./day-11/part1.py) | [part 2](./day-12/part2.py) |
+| 11 | [Dumbo Octopus](https://adventofcode.com/2021/day/11) |  [part 1](./day-11/part1.py) | [part 2](./day-11/part2.py) |
 | 12 | [Passage Pathing](https://adventofcode.com/2021/day/12) |  [part 1](./day-12/part1.py) | [part 2](./day-12/part2.py) |
 | 13 | [Transparent Origami](https://adventofcode.com/2021/day/13) |  [part 1](./day-13/part1.py) | [part 2](./day-13/part2.py) |
