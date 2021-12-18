@@ -25,3 +25,7 @@ For reproducibility, I also provide a [development container](./.devcontainer) t
 | 11 | [Dumbo Octopus](https://adventofcode.com/2021/day/11) |  [part 1](./day-11/part1.py) | [part 2](./day-11/part2.py) |
 | 12 | [Passage Pathing](https://adventofcode.com/2021/day/12) |  [part 1](./day-12/part1.py) | [part 2](./day-12/part2.py) |
 | 13 | [Transparent Origami](https://adventofcode.com/2021/day/13) |  [part 1](./day-13/part1.py) | [part 2](./day-13/part2.py) |
+| 14 | [Extended Polymerization](https://adventofcode.com/2021/day/14) |  [part 1](./day-14/part1.py) | [part 2](./day-14/part2.py) |
+| 15 | [Chiton](https://adventofcode.com/2021/day/15) |  [part 1](./day-15/part1.py) | [part 2](./day-15/part2.py) |
+| 16 | [Packet Decoder](https://adventofcode.com/2021/day/16) |  [part 1](./day-16/part12.py) | [part 2](./day-16/part12.py) |
+| 17 | [Trick Shot](https://adventofcode.com/2021/day/17) |  [part 1](./day-17/part12.py) | [part 2](./day-17/part12.py) |
