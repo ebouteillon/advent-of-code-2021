@@ -30,3 +30,5 @@ For reproducibility, I also provide a [development container](./.devcontainer) t
 | 16 | [Packet Decoder](https://adventofcode.com/2021/day/16) |  [part 1](./day-16/part12.py) | [part 2](./day-16/part12.py) |
 | 17 | [Trick Shot](https://adventofcode.com/2021/day/17) |  [part 1](./day-17/part12.py) | [part 2](./day-17/part12.py) |
 | 18 | [Snailfish](https://adventofcode.com/2021/day/18) |  [part 1](./day-18/part12.py) | [part 2](./day-18/part12.py) |
+| 19 | [Beacon Scanner](https://adventofcode.com/2021/day/19) |  [part 1](./day-19/part1.py) | [part 2](./day-19/part2.py) |
+| 20 | [Trench Map](https://adventofcode.com/2021/day/20) |  [part 1](./day-20/part12.py) | [part 2](./day-20/part12.py) |
