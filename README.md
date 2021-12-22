@@ -32,3 +32,4 @@ For reproducibility, I also provide a [development container](./.devcontainer) t
 | 18 | [Snailfish](https://adventofcode.com/2021/day/18) |  [part 1](./day-18/part12.py) | [part 2](./day-18/part12.py) |
 | 19 | [Beacon Scanner](https://adventofcode.com/2021/day/19) |  [part 1](./day-19/part1.py) | [part 2](./day-19/part2.py) |
 | 20 | [Trench Map](https://adventofcode.com/2021/day/20) |  [part 1](./day-20/part12.py) | [part 2](./day-20/part12.py) |
+| 21 | [Dirac Dice](https://adventofcode.com/2021/day/21) |  [part 1](./day-21/part1.py) | [part 2](./day-21/part2.py) |
