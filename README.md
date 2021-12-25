@@ -34,3 +34,6 @@ For reproducibility, I also provide a [development container](./.devcontainer) t
 | 20 | [Trench Map](https://adventofcode.com/2021/day/20) | [part 1](./day-20/part12.py) | [part 2](./day-20/part12.py) |
 | 21 | [Dirac Dice](https://adventofcode.com/2021/day/21) | [part 1](./day-21/part1.py) | [part 2](./day-21/part2.py) |
 | 22 | [Reactor Reboot](https://adventofcode.com/2021/day/22) | [part 1](./day-22/part1.py) | [part 2](./day-22/part2.py) |
+| 23 | [Amphipod](https://adventofcode.com/2021/day/23) | [part 1](./day-23/part1.py) | [part 2](./day-23/part2.py) |
+| 24 | [Arithmetic Logic Unit](https://adventofcode.com/2021/day/24) | [part 1](./day-24/part1.py) | [part 2](./day-24/part2.py) |
+| 25 | [Sea Cucumber](https://adventofcode.com/2021/day/25) | [part 1](./day-25/part1.py) | [part 2](./day-25/part1.py) |
