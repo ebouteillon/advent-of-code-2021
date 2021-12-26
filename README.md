@@ -1,4 +1,4 @@
-[![Apache license](https://img.shields.io/badge/license-Apache-blue.svg)](LICENSE) ![](https://img.shields.io/badge/days%20completed%20📅-25%2F25-lightgreen) ![](https://img.shields.io/badge/stars%20⭐-50%2F50-yellow)
+[![Apache license](https://img.shields.io/badge/license-Apache-blue.svg)](LICENSE) ![](https://img.shields.io/badge/days%20completed%20📅-25%2F25-darkgreen) ![](https://img.shields.io/badge/stars%20⭐-50%2F50-yellow)
 
 # Advent of code 2021
 
