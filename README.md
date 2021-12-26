@@ -1,3 +1,5 @@
+[![MIT license](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE) ![](https://img.shields.io/badge/days%20completed%20📅-25%2F25-lightgreen) ![](https://img.shields.io/badge/stars%20⭐-50%2F50-yellow)
+
 # Advent of code 2021
 
 Python solutions of [Advent of Code 2021](https://adventofcode.com/2021) written by [Eric Bouteillon](https://github.com/ebouteillon/advent-of-code-2021)
